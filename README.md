@@ -17,3 +17,5 @@ I have mastered techniques to greatly enhance language learning skills on Memris
 I HAVE SKYPE BUT RARELY USE IT NOR THE PHONES(I HAVE 3, USE NONE),! I DO RAPID EMAIL RESPONSES.
 
 WPW
+
+All of the above was created in 2016, now I am taking a course in Ruby on Rails and I come back to GitHub, having even forgotten that I had an account open here.
